@@ -3,6 +3,11 @@
 Bem-vindo(a) à organização do **Time 2**! 
 
 ---
+## Repositórios da Organização
+
+* **`Quality_Papeis-Time_2`**: Contém os arquivos do Docker Compose, fluxos do Node-RED e a documentação técnica.
+
+---
 
 ## Guia Rápido de Acesso ao Repositório
 
@@ -30,6 +35,4 @@ Se você é professor ou membro de outro time e precisa de acesso para visualiza
 
 ---
 
-## Repositórios da Organização
 
-* **`Quality_papeis-Time_2`**: Contém os arquivos do Docker Compose, fluxos do Node-RED e a documentação técnica.
