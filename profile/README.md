@@ -26,7 +26,7 @@ O nosso repositório é **Privado** e o controle de acesso funciona de forma sim
 
 ---
 
-## Como solicitar acesso para avaliação?
+## Como solicitar acesso?
 
 Se você é professor ou membro de outro time e precisa de acesso para visualizar o projeto:
 1. Envie o seu **nome de usuário do GitHub** para um dos integrantes do Time 2.
